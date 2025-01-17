@@ -11,7 +11,7 @@
     - Pandas DataFrame Data Extraction
     - Pandas DataFrame Groupby
     - Pandas DataFrame merging & Concatenation
-- Data_viz : Learning tools for Python visualization 
+- Data_viz : Learning tools for Python Visualization 
     - Matplotlib
     - Seaborn
     - Plotly
