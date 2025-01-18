@@ -1,9 +1,20 @@
-# Basic Python
+# Basic_Python
 ---
-### Basic : Python language learning 
-### Numpy : Numpy basic learning
-### Pandas : Pandas basic learning
-### Data_viz : Learning tools for visualization with Matplotlib & Seaborn & Plotly
+- Basic : Python language learning
+    - Data_Type
+- Numpy : Numpy basic learning
+    - Numpy array
+    - Numpy array calculation
+    - Numpy array comparison operation & Data Extraction
+- Pandas : Pandas basic learning
+    - Pandas DataFrame
+    - Pandas DataFrame Data Extraction
+    - Pandas DataFrame Groupby
+    - Pandas DataFrame merging & Concatenation
+- Data_viz : Learning tools for Python Visualization 
+    - Matplotlib
+    - Seaborn
+    - Plotly
 ---
 #### 참고자료
 ● Do it! 점프 투 파이썬, 이지스퍼블리싱  
