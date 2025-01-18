@@ -2,6 +2,7 @@
 ---
 - Basic : Python language learning
     - Data_Type
+    - Control_Structure
 - Numpy : Numpy basic learning
     - Numpy array
     - Numpy array calculation
